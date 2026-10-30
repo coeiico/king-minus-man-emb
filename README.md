@@ -2,11 +2,7 @@
 
 **word2vec.** Skip-gram word2vec on text8, testing whether directions in an embedding space carry meaning.
 
-Part of the **Latent Space Project**: 18 small PyTorch repos that test one idea, that neural networks encode concepts and strategy in their latent space, and that we can read and edit those representations. Everything trains on a single consumer GPU or a laptop.
-
-| Roadmap | Phase | Depends on | Status |
-| --- | --- | --- | --- |
-| 6 of 18 | 2. Interpretability practice | Nothing | Not started (scaffolded) |
+**Status:** not started.
 
 ## Question
 
@@ -28,7 +24,7 @@ Do directions in an embedding space carry meaning?
 
 - king − man + woman lands on queen within the top 5.
 
-Plus the definition of done every Latent Space Project repo shares:
+Plus the general checklist:
 
 Apply this checklist with the project-specific requirements and exceptions in
 [CLAUDE.md](CLAUDE.md#project-specific-scope).
